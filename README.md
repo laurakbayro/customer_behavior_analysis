@@ -126,7 +126,7 @@ Open the `.pbix` file in Power BI Desktop, configure the data source if necessar
 - Develop additional KPIs and interactive dashboard features.
 - Document quantified findings and actionable recommendations.
 
-## Author
+## Laura Rubio Caballero
 
 **Your Name**
 
