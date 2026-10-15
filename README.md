@@ -126,10 +126,10 @@ Open the `.pbix` file in Power BI Desktop, configure the data source if necessar
 - Develop additional KPIs and interactive dashboard features.
 - Document quantified findings and actionable recommendations.
 
-## Laura Rubio Caballero
+## Author
 
-**Your Name**
+**Laura Rubio Caballero**
 
 Data Analytics Portfolio Project
 
-[GitHub Profile](https://github.com/YOUR-USERNAME)
+[GitHub Profile](https://github.com/laurakbayro)
